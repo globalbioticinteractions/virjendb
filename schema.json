@@ -16,9 +16,12 @@
       "datatype": "string"
     },
     {
-      "name": "NCBIAccession",
+      "name": "sourceOccurrenceId",
       "titles": "NCBIAccession",
-      "datatype": "string"
+"datatype": {
+        "base" : "string",
+        "valueUrl" : "https://www.ncbi.nlm.nih.gov/nuccore/{sourceOccurrenceId}"
+      }
     },
     {
       "name": "sourceTaxonName",
@@ -26,14 +29,20 @@
       "datatype": "string"
     },
     {
-      "name": "referenceId",
+      "name": "referenceUrl",
       "titles": "PMID",
-      "datatype": "string"
+      "datatype": {
+        "base" : "string",
+        "valueUrl" : "https://pubmed.ncbi.nlm.nih.gov/{referenceUrl}"
+      }
     },
     {
       "name": "sourceTaxonId",
       "titles": "TaxID",
-      "datatype": "string"
+      "datatype": {
+        "base" : "string",
+        "valueUrl" : "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id={sourceTaxonId}"
+      }    
     },
     {
       "name": "GC",

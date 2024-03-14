@@ -15,7 +15,7 @@
       "interactionTypeName": "hasHost",
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002454",
       "headerRowCount" : 1,
-      "null" : [ "" ],
+      "null" : [ "", "0" ],
       "tableSchema": "schema.json"
     }
   ]
