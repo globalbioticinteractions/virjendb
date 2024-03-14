@@ -1,0 +1,164 @@
+{
+  "columns": [
+    {
+      "name": "SampleID",
+      "titles": "SampleID",
+      "datatype": "string"
+    },
+    {
+      "name": "Completeness",
+      "titles": "Completeness",
+      "datatype": "string"
+    },
+    {
+      "name": "BVBRCID",
+      "titles": "BVBRCID",
+      "datatype": "string"
+    },
+    {
+      "name": "NCBIAccession",
+      "titles": "NCBIAccession",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonName",
+      "titles": "Name",
+      "datatype": "string"
+    },
+    {
+      "name": "referenceId",
+      "titles": "PMID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonId",
+      "titles": "TaxID",
+      "datatype": "string"
+    },
+    {
+      "name": "GC",
+      "titles": "GC",
+      "datatype": "string"
+    },
+    {
+      "name": "SequenceLength",
+      "titles": "SequenceLength",
+      "datatype": "string"
+    },
+    {
+      "name": "NumberOfContigs",
+      "titles": "NumberOfContigs",
+      "datatype": "string"
+    },
+    {
+      "name": "SegmentName",
+      "titles": "SegmentName",
+      "datatype": "string"
+    },
+    {
+      "name": "Reference",
+      "titles": "Reference",
+      "datatype": "string"
+    },
+    {
+      "name": "SRAAccession",
+      "titles": "SRAAccession",
+      "datatype": "string"
+    },
+    {
+      "name": "Moleculetype",
+      "titles": "Moleculetype",
+      "datatype": "string"
+    },
+    {
+      "name": "Representative",
+      "titles": "Representative",
+      "datatype": "string"
+    },
+    {
+      "name": "GenomeQuality",
+      "titles": "GenomeQuality",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonSpeciesName",
+      "titles": "Species",
+      "datatype": "string"
+    },
+    {
+      "name": "DBSource",
+      "titles": "DBSource",
+      "datatype": "string"
+    },
+    {
+      "name": "localityName",
+      "titles": "CollectionCountry",
+      "datatype": "string"
+    },
+    {
+      "name": "eventDate",
+      "titles": "CollectionYear",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "HostName",
+      "datatype": "string"
+    },
+    {
+      "name": "HostAge",
+      "titles": "HostAge",
+      "datatype": "string"
+    },
+    {
+      "name": "Submitter",
+      "titles": "Submitter",
+      "datatype": "string"
+    },
+    {
+      "name": "Organization",
+      "titles": "Organization",
+      "datatype": "string"
+    },
+    {
+      "name": "BioSample",
+      "titles": "BioSample",
+      "datatype": "string"
+    },
+    {
+      "name": "BioProject",
+      "titles": "BioProject",
+      "datatype": "string"
+    },
+    {
+      "name": "ReleaseDate",
+      "titles": "ReleaseDate",
+      "datatype": "string"
+    },
+    {
+      "name": "SequencingCenter",
+      "titles": "SequencingCenter",
+      "datatype": "string"
+    },
+    {
+      "name": "AssemblyAccession",
+      "titles": "AssemblyAccession",
+      "datatype": "string"
+    },
+    {
+      "name": "Abbreviation",
+      "titles": "Abbreviation",
+      "datatype": "string"
+    },
+    {
+      "name": "HostGroup",
+      "titles": "HostGroup",
+      "datatype": "string"
+    },
+    {
+      "name": "Variant",
+      "titles": "Variant",
+      "datatype": "string"
+    }
+  ]
+}
