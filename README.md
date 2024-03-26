@@ -2,4 +2,4 @@
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
-VirJenDB: a central hub connecting virus researchers to publicly available virus resources, metadata and sequences. 2024. https://virjendb.uni-jena.de/Downloads
+VirJenDB: a central hub connecting virus researchers to publicly available virus resources, metadata and sequences. 2024. https://virjendb.org/Downloads
