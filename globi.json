@@ -8,9 +8,9 @@
         "@language" : "en"
       } ],
       "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
-      "__url" : "https://virjendb.uni-jena.de:8000/api/vj.v0.1_archaeal_virus.csv.gz",
+      "__url" : "https://virjendb.org:8000/api/downloads/vj.v0.1_archaeal_virus.csv.gz",
       "url" : "vj.v0.1_archaeal_virus_noquotes.csv.gz",
-      "dcterms:bibliographicCitation" : "VirJenDB: a central hub connecting virus researchers to publicly available virus resources, metadata and sequences. 2024. https://virjendb.uni-jena.de/",
+      "dcterms:bibliographicCitation" : "VirJenDB: a central hub connecting virus researchers to publicly available virus resources, metadata and sequences. 2024. https://virjendb.org/",
       "delimiter" : ",",
       "interactionTypeName": "hasHost",
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002454",
